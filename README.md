@@ -5,8 +5,8 @@ how collision severity relates to time of day, speed limit, lighting
 conditions, and road type. Includes a Jupyter notebook with the full
 analysis and an interactive Streamlit dashboard.
 
-**Live dashboard:** _add your streamlit.app link here after deploying_
-**One-page summary:** [SUMMARY.md](SUMMARY.md)
+**Live dashboard:** https://roadsafetyprojectuk.streamlit.app/
+**One-page summaryi is in :** [SUMMARY.md](SUMMARY.md)
 
 ---
 
